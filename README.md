@@ -41,6 +41,27 @@ The system uses Firebase Firestore to store exam questions, student submissions,
 | Cloud Firestore | Database |
 | Material Design | UI Components |
 
+
+
+## 📸 Application Screenshots
+
+### Student Interface
+
+| Student Login | Exam Page |
+|:---:|:---:|
+| ![Student Login](screenshots/student login.png) | ![Exam Page](screenshots/Exam Page.png) |
+
+| Anti-Cheating Warning |
+|:---:|
+| ![Anti-Cheating Warning](screenshots/anti-cheating-warning.png) |
+
+### Teaching Assistant Dashboard
+
+| Teacher Dashboard | Exam Result |
+|:---:|:---:|
+| ![Teacher Dashboard](screenshots/teacher-dashboard.png) | ![Exam Result](screenshots/Exam Result.png) |
+
+
 ## 🔄 How It Works
 
 1. The teaching assistant creates an exam and adds questions.
