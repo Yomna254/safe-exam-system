@@ -47,13 +47,9 @@ The system uses Firebase Firestore to store exam questions, student submissions,
 
 ### Student Interface
 
-| Student Login |
-|:---:|
-| ![Student Login](screenshots/student-login.png) |
-
-| Exam Page |
-|:---:|
-| ![Exam Page](screenshots/Exam-Page.png) |
+| Student Login | Exam Page |
+|:---:|:---:|
+| ![Student Login](screenshots/student-login.png) | ![Exam Page](screenshots/Exam-Page.png) |
 
 | Anti-Cheating Warning |
 |:---:|
