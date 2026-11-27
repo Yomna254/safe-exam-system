@@ -49,11 +49,11 @@ The system uses Firebase Firestore to store exam questions, student submissions,
 
 | Student Login |
 |:---:|
-| ![Student Login](screenshots/student login.png) |
+| ![Student Login](screenshots/student-login.png) |
 
 | Exam Page |
 |:---:|
-| ![Exam Page](screenshots/Exam Page.png) |
+| ![Exam Page](screenshots/Exam-Page.png) |
 
 | Anti-Cheating Warning |
 |:---:|
@@ -63,8 +63,7 @@ The system uses Firebase Firestore to store exam questions, student submissions,
 
 | Teacher Dashboard | Exam Result |
 |:---:|:---:|
-| ![Teacher Dashboard](screenshots/teacher-dashboard.png) 
-| ![Exam Result](screenshots/Exam Result.png) |
+| ![Teacher Dashboard](screenshots/teacher-dashboard.png) | ![Exam Result](screenshots/Exam-Result.png) |
 
 
 ## 🔄 How It Works
